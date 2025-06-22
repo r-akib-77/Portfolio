@@ -18,7 +18,7 @@ const Portfolio = [
     imgsrc: image2,
     stack: "Full-Stack",
     title: "Chat Application",
-    link: "https://github.com/r-akib-77/chat-application",
+    link: "https://zdoom.onrender.com/login",
   },
   {
     id: 2,
